@@ -2,7 +2,7 @@
 <p align="center"><img src="https://xx-hypercryptid-xx.neocities.org/assets/skelanimalsbanner.gif"></p>
 <p align="center"><img src="https://xx-hypercryptid-xx.neocities.org/assets/wingblack.gif"> ${{\color{#1EF4F5}\Huge{\texttt{ABOUT ME!}}}}$ <img src="https://xx-hypercryptid-xx.neocities.org/assets/wingwhite.gif"></p>
 <p align="center">Wouldn't you like to know weather boy <img src="https://xx-hypercryptid-xx.neocities.org/assets/exclamation.gif" width="3"> <br><img src="https://xx-hypercryptid-xx.neocities.org/assets/explode.gif" width="50"></p>
-<center><a href="https://xx-hypercryptid-xx.neocities.org/sparklefur-webring">JOIN MY WEBRING</a></center>
+<p align="center"><a href="https://xx-hypercryptid-xx.neocities.org/sparklefur-webring">JOIN MY WEBRING</a><p>
 <p align="center"><img src="https://xx-hypercryptid-xx.neocities.org/assets/peek.gif"><br><img src="https://xx-hypercryptid-xx.neocities.org/assets/parentaladvis.png" width="200"></p>
 
 
